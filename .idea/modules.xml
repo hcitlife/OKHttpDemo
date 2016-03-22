@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OKHttpDemo.iml" filepath="$PROJECT_DIR$/OKHttpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpDemo1/OkHttpDemo1.iml" filepath="$PROJECT_DIR$/OkHttpDemo1/OkHttpDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo2/okhttpdemo2.iml" filepath="$PROJECT_DIR$/okhttpdemo2/okhttpdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpwithprogress/okhttpwithprogress.iml" filepath="$PROJECT_DIR$/okhttpwithprogress/okhttpwithprogress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stethodemo/stethodemo.iml" filepath="$PROJECT_DIR$/stethodemo/stethodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploaddownwithprogress/uploaddownwithprogress.iml" filepath="$PROJECT_DIR$/uploaddownwithprogress/uploaddownwithprogress.iml" />
+    </modules>
+  </component>
+</project>
